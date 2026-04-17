@@ -1,0 +1,22 @@
+.container {
+    width: 60%;
+    background-color: rgb(224, 236, 255);
+    padding: 20px;  
+    margin: 0px auto;
+    text-align:center;
+    border: 5px solid #9c9cff;
+    border-radius: 10px;
+}
+h1{
+    color:white
+}
+p{
+    color:rgb(0, 0, 0)
+}
+body {
+  background-image: url('waap.jpg');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+}
+
